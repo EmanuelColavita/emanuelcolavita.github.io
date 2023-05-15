@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+}
+p {
+    color:rgb(155, 3, 3);
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    background-color: darkgoldenrod;
+}
+#pruebaCaja {
+    background-color: darkkhaki;
+    color: beige;
+    padding: 5%;
+}
+body {
+    width: 90%;
+    min-width: 900px;
+    margin: 30px auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    text-shadow: 4px 4px 4px #583400;
+  }
